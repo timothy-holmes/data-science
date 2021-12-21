@@ -1,26 +1,3 @@
-#%%
-
-import numpy as np
-from matplotlib import pyplot as plt
-
-quotes = [(650,1036),
-    (745,992),
-    (800,956),
-    (900,902),
-    (1200,816),
-    (1700,756),
-    (2200,642)]
-
-coverage = np.array([coverage for coverage,premium in quotes])
-premium = np.array([premium for coverage,premium in quotes])
-
-m,b = np.polyfit(coverage,premium,1)
-
-plt.plot(coverage,premium,'o')
-plt.plot(coverage,m*coverage+b)
-plt.show()
-
-
 # %%
 
 import numpy as np
