@@ -59,6 +59,7 @@ plt.plot(coverage, premium,'o')
 plt.plot(coverage_alt, premium_alt,'o')
 plt.plot(coverage, m*coverage + b)
 plt.plot(coverage_alt, m_alt*coverage_alt + b_alt)
+plt.savefig('plot.jpg')
 plt.show()
 
 # %%
