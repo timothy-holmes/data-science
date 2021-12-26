@@ -6,7 +6,7 @@
 - plots quotes and best fit for both segments
 
 ## Screenshot
-![plot](https://user-images.githubusercontent.com/46288522/146912676-0fd0361a-d58a-41aa-9264-0eff2c382bd1.jpg)
+![plot](https://user-images.githubusercontent.com/46288522/146912676-0fd0361a-d58a-41aa-9264-0eff2c382bd1.jpg Premium vs Coverage)
 
 # weather-analysis.py
 ## Description
@@ -26,5 +26,5 @@
 - changes to hottest/coldest tme of year? earlier/later?
 
 ## Screenshot
-![rolling_mean](https://user-images.githubusercontent.com/46288522/147409377-f12bcdfe-88d4-4ed0-ab72-7fed539567ba.jpg)
-![rolling_std](https://user-images.githubusercontent.com/46288522/147409379-5eb0b274-8533-4182-b144-e5264d77ae60.jpg)
+![rolling_mean](https://user-images.githubusercontent.com/46288522/147409377-f12bcdfe-88d4-4ed0-ab72-7fed539567ba.jpg Daily min (green), max (black) and differnece (red) rolling mean (rolling window = 4 years))
+![rolling_std](https://user-images.githubusercontent.com/46288522/147409379-5eb0b274-8533-4182-b144-e5264d77ae60.jpg Daily min and max rolling std)
