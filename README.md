@@ -26,5 +26,7 @@
 - changes to hottest/coldest tme of year? earlier/later?
 
 ## Screenshot
-![rolling_mean](https://user-images.githubusercontent.com/46288522/147409377-f12bcdfe-88d4-4ed0-ab72-7fed539567ba.jpg Daily min (green), max (black) and differnece (red) rolling mean (rolling window = 4 years))
-![rolling_std](https://user-images.githubusercontent.com/46288522/147409379-5eb0b274-8533-4182-b144-e5264d77ae60.jpg Daily min and max rolling std)
+Daily min (green), max (black) and differnece (red) rolling (window = 4 years) mean (first) and std (second) 
+
+![rolling_mean](https://user-images.githubusercontent.com/46288522/147409377-f12bcdfe-88d4-4ed0-ab72-7fed539567ba.jpg)
+![rolling_std](https://user-images.githubusercontent.com/46288522/147409379-5eb0b274-8533-4182-b144-e5264d77ae60.jpg)
