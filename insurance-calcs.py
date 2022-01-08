@@ -1,6 +1,6 @@
 # %%
 
-import numpy as np
+import numpy as np #something
 from matplotlib import pyplot as plt
 
 quotes = [
