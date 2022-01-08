@@ -6,7 +6,8 @@
 - plots quotes and best fit for both segments
 
 ## Screenshot
-![plot](https://user-images.githubusercontent.com/46288522/146912676-0fd0361a-d58a-41aa-9264-0eff2c382bd1.jpg Premium vs Coverage)
+Premium vs Coverage
+![plot](https://user-images.githubusercontent.com/46288522/146912676-0fd0361a-d58a-41aa-9264-0eff2c382bd1.jpg)
 
 # weather-analysis.py
 ## Description
